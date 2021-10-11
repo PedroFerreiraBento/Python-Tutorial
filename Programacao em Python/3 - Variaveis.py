@@ -24,7 +24,7 @@ variavel = 12.5
 variavel = "Nome"
 variavel = 'Nome'
 
-# Boolean: bool
+# Boolean(Verdadeiro ou Falso): bool 
 variavel = True
 variavel = False
 
@@ -43,6 +43,15 @@ variavel = {"nome": "Victor", "idade": 18}
 
 # Verificar o tipo da variavel: type()
 print(type(variavel))
+
+# Conversoes
+int(variavel) # Converter para Inteiro
+float(variavel) # Converter para Float
+str(variavel) # Converter para String
+bool(variavel) # Converter para Boolean
+list(variavel) # Converter para Lista
+tuple(variavel) # Converter para Tupla
+dict(variavel) # Converter para Dicionario
 
 # Excluir variavel
 del variavel
