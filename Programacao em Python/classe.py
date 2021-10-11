@@ -10,3 +10,6 @@ class Calculadora:
         return self.a + self.b
     def sub(self):
         return self.a - self.b
+
+l = [3,1,4,3]
+print(l.count(3))
