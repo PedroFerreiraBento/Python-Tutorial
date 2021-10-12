@@ -21,6 +21,12 @@ len(variavel)
 # Remover elementos repetidos
 set(variavel)
 
+# Menor valor da lista
+min(variavel)
+
+# Maior valor da lista
+max(variavel)
+
 # Adcionar um elemento ao final da lista
 variavel.append(6) # [1, 2, 3, 6]
 
