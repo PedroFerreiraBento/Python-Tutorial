@@ -1,4 +1,4 @@
-# Listas
+# 4 - Listas
 
 """
 Posicoes de uma lista
@@ -14,6 +14,12 @@ lista[-1] -> Resultado: F
 
 # Declaracao inicial
 variavel = [1, 2, 3]
+
+# Contar quantos elementos ha na lista  ou String
+len(variavel)
+
+# Remover elementos repetidos
+set(variavel)
 
 # Adcionar um elemento ao final da lista
 variavel.append(6) # [1, 2, 3, 6]

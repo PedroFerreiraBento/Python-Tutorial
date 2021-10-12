@@ -1,4 +1,4 @@
-# Variaveis
+# 3 - Variaveis
 # Nomeacao - Nao pode:
 #   - Iniciar com numeros ou caracteres especiais, com excessao do "_". 
 #       Ex: 1Nome, 25Idade, *Cidade, ...
@@ -11,7 +11,6 @@
 #
 #   - Ser uma das 'Palavras reservadas' da linguagem
 #       Ex: print, int, str, sum, True, ...
-
 
 # Tipos de variaveis
 # Inteiro: int

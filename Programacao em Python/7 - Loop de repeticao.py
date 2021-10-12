@@ -1,4 +1,4 @@
-# Loops
+# 7 - Loops
 
 # FOR - Para cada elemento execute os seguintes comandos
 lista = ["A", "B", "C"]
