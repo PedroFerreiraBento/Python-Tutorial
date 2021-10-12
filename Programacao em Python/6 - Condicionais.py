@@ -25,3 +25,8 @@ elif 10 > 5:
 # Condicional SENAO - else
 else:
     print("10 nao e maior ou menor que 5")
+
+# Operador ternario
+# RETORNO if CONDICAO else RETORNO
+
+variavel = "Resultado 1" if 10 != "10" else "Resultado 2"
