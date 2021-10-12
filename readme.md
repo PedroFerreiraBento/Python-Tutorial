@@ -20,3 +20,9 @@ Ate o atual momento este tutorial abrange:
 - Loops
 - Funcoes
 - Classes
+
+## Agradecimentos
+O repositorio ainda esta em desenvolvimento mas espero que aproveitem ao maximo.
+
+Em caso de duvidas ou sugestoes me enviem um e-mail ;)
+###### ASS: Pedro Bento
